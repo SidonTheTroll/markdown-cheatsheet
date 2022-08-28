@@ -93,6 +93,10 @@ For example:
 
 Remember that it must be from the root directory of the server it is hosted from
 
+Btw you can also use it for gifs.
+
+![borgil](https://media1.giphy.com/media/ZRouJhQpbhPzTJ2eBU/giphy.gif?cid=ecf05e47w81tnc3ex0lnqw2l5oab9vsu9gjnvf7lqzhadubc&rid=giphy.gif&ct=g)
+
 --- 
 
 ## Horizontal Line 
