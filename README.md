@@ -64,7 +64,7 @@ Anything you want to put here
 ```
 - First item 
 - Second item 
--Third item 
+- Third item 
 ```
 > Start the line with a hyphen `-` to make the line unordered 
 
