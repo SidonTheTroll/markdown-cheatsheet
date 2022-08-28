@@ -16,7 +16,7 @@
 ## **Bold Text**
 
 `**<Random shit>**`
-> To get bold letters 
+> To get **bold letters**
 
 --- 
 
@@ -30,7 +30,7 @@
 ## Blockquote
 
 `> <text>`
-> Renders a block quote like this 
+> Renders a `block quote` like this 
 
 ---
 
@@ -52,6 +52,10 @@ Anything you want to put here
 ```
 > Denote the sections with numbers 
 
+1. Apple
+2. Cherry
+3. Apricot
+
 
 --- 
 
@@ -63,6 +67,10 @@ Anything you want to put here
 -Third item 
 ```
 > Start the line with a hyphen `-` to make the line unordered 
+
+- I have a dream
+- That every man will have the right to create their own destiny
+- A nation of action, not words. Ruled by strength, not committee
 
 ---
 
@@ -98,6 +106,8 @@ Remember that it must be from the root directory of the server it is hosted from
 
 `--<your text>--`
 > Adds a --strikethrough line-- in the text it covers
+
+--I forgor-- :skull:
 
 ---
 
