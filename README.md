@@ -107,7 +107,7 @@ Remember that it must be from the root directory of the server it is hosted from
 `--<your text>--`
 > Adds a --strikethrough line-- in the text it covers
 
--I forgor- :skull:
+--I forgor-- :skull:
 
 ---
 
