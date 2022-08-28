@@ -104,8 +104,8 @@ Remember that it must be from the root directory of the server it is hosted from
 
 ## Strikethrough 
 
-`--<your text>--`
-> Adds a --strikethrough line-- in the text it covers
+`~~<your text>~~`
+> Adds a ~~strikethrough line~~ in the text it covers
 
 --I forgor-- :skull:
 
