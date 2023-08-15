@@ -1,4 +1,4 @@
-# markdown-tutorial
+![image](https://github.com/SidonTheTroll/markdown-tutorial/assets/70560640/58936ee3-4609-41d6-b431-80354e27e1f7)# markdown-tutorial
 
 ## Use of `#`
 
@@ -135,3 +135,65 @@ Makes a tasklist like this:
 Women :rofl: :rofl: :rofl: 
 
 ![women moment](https://media1.giphy.com/media/f0Q42HgxOZuKrT4hxO/giphy.gif?cid=790b7611a614719bad5ada416b5f508e899f52bab5f43c0e&rid=giphy.gif&ct=g)
+
+---
+
+# Math functions 
+
+1. Basic Arithmetic:
+  - Addition: +
+  - Subtraction: -
+  - Multiplication: * or \cdot
+  - Division: /
+  - Exponentiation: ^
+  - Fractions:
+
+2. Fraction: \frac{numerator}{denominator}
+Binomial coefficient: {n \choose k} or {n \atop k}
+
+3. Roots:
+- Square root: \sqrt{expression}
+- nth root: \sqrt[n]{expression}
+- Trigonometric Functions:
+
+```
+Sine: \sin
+Cosine: \cos
+Tangent: \tan
+Inverse trigonometric functions: \arcsin, \arccos, \arctan
+```
+
+4. Logarithms and Exponents:
+  - Natural logarithm: \ln
+  - Common logarithm: \log
+  - Exponential function: e^x
+
+5. Greek Letters:
+  - Alpha: \alpha
+  - Beta: \beta
+  - Gamma: \gamma
+  - and so on...
+
+6. Summation and Limits:
+  - Summation: \sum_{i=1}^{n}
+  - Product: \prod_{i=1}^{n}
+  - Limits: \lim_{x \to a}
+
+7. Integrals:
+  - Definite integral: \int_{a}^{b}
+  - Indefinite integral: \int
+
+8. Matrices and Vectors:
+  - Matrix: \[ \begin{matrix} ... \end{matrix} \]
+  - Vector: \[ \begin{pmatrix} ... \end{pmatrix} \]
+
+9. Equations and Alignment:
+  - Equation: \[ ... \]
+  - Equation with numbering: \[ \begin{equation} ... \end{equation} \]
+  - Equation alignment: \[ \begin{align} ... \end{align} \]
+
+10. Inlines
+  - variable_{number}
+  - Eg- $Cirno_{9}$
+  - variable_{\text{actual-text}}
+  - Eg- $Cirno_{\text{baka}}$
