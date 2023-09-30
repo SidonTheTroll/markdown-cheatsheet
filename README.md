@@ -1,6 +1,4 @@
-![image](https://github.com/SidonTheTroll/markdown-tutorial/assets/70560640/58936ee3-4609-41d6-b431-80354e27e1f7)
-
-# markdown-tutorial
+# Markdown-Cheatsheet
 
 ## Use of `#`
 
